@@ -1,0 +1,25 @@
+{
+	"name": "my-materials",
+	"alias": "我的自定义物料",
+	"gitPath": "git@github.com:bill001t/pandora-demo.git",
+	"type": "React",
+	"description": "描述信息",
+	"list": {
+		"blocks": [
+			{
+				"framework": "vue",
+				"type": "block",
+				"name": "test",
+				"category": "表格",
+				"tags": [
+					"test"
+				],
+				"description": "test",
+				"sourceCode": "https://github.com/bill001t/pandora-demo/tree/master/blocks/test",
+				"downloadPath": "/blocks/test",
+				"screenshot": "https://img.souche.com/f2e/pandora/yrvm5asl5owi7xk33yv9qha0tq2turzv.png"
+			}
+		],
+		"components": []
+	}
+}
